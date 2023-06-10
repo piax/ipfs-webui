@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/ipld.602ac4fe.chunk.js","mappings":"iGAAAA,EAAOC,QAAU,EAAjBD,M","sources":["webpack-fallbacks/stream.js"],"sourcesContent":["module.exports = require('stream-browserify')\n"],"names":["module","exports"],"sourceRoot":""}

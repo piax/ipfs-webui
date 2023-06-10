@@ -1,2 +1,0 @@
-(this["webpackJsonpipfs-webui"]=this["webpackJsonpipfs-webui"]||[]).push([[2],{1517:function(n,i){},1521:function(n,i){},1550:function(n,i){},1552:function(n,i){},1563:function(n,i){},1565:function(n,i){}}]);
-//# sourceMappingURL=ipld.f50575ab.chunk.js.map
